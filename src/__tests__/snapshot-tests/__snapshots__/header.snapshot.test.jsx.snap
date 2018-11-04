@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should render correctly 1`] = `
+<div
+  className="header"
+>
+  <Logo />
+  <Connect(SearchField)
+    onChange={[Function]}
+  />
+  <Connect(SearchBar)
+    limit={100}
+  />
+</div>
+`;
